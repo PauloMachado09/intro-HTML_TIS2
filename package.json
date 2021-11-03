@@ -1,0 +1,26 @@
+{
+  "name": "intro-html_tis2",
+  "version": "1.0.0",
+  "description": "Exemplo de HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloMachado09/intro-HTML_TIS2.git"
+  },
+  "author": "Paulo Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloMachado09/intro-HTML_TIS2/issues"
+  },
+  "homepage": "https://github.com/PauloMachado09/intro-HTML_TIS2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
