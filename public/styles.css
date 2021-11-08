@@ -1,3 +1,42 @@
 body {
-    background-color :chartreuse
+    background-color :rgba(0, 0, 0, 0.288);
+}
+.p1{
+    background-color: rgb(22, 255, 1);
+}   
+
+.p2{
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.p2:hover {
+    background-color: forestgreen;
+}
+
+.ola{
+    background-color: rgb(255, 238, 0);
+}
+
+.dog {
+    width: 400px;
+    display: block;     
+    margin-left: auto;
+    margin-right: auto; 
+    height: auto;
+    border-style: double;
+    border-color: rgb(0, 0, 0);
+    
+}       
+
+.legendas{
+    display: block  ;     
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 10px;
+
 }
